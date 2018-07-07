@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privacycloud/book-club.git"
+  },
+  "bugs": {
+    "url": "https://github.com/privacycloud/book-club/issues"
+  },
+  "homepage": "https://github.com/privacycloud/book-club#readme",
+  "devDependencies": {
+    "markdownlint": "^0.10.0"
+  }
+}
